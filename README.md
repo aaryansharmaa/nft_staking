@@ -19,7 +19,9 @@ Deployment Instructions
 1. Compile the contracts:
    npx hardhat compile
 
-2. Deploy the contracts:
+2. Add .env file with your wallet key & RPC provider API key.
+
+3. Deploy the contracts:
    npx hardhat run scripts/deploy.js --network [network]
 
 Testing Instructions
