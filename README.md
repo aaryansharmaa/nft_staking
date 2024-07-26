@@ -38,7 +38,16 @@ Replace these placeholders with your actual deployed contract addresses:
 - NFTStaking: YOUR_DEPLOYED_NFTSTAKING_ADDRESS
 
 
-Passing Tests Cases
+Live Contract Addresses on Polygon Mainnet
+------------------
+
+Check out the live contract interactions here.
+
+- ERC20Mock: 0xa62f7A33c66C6cD165a63442584874dC0e89729A
+- ERC721Mock: 0xA1EB5DDb28e51E7fb61346e4C1C2E00fCEd86a71
+- NFTStaking: 0xD967C4E17DfF2808f00126C0dDca99720f2CE2F8
+
+Tests Cases
 ---------------------
 
 ![Screenshot 2024-07-26 at 1 06 12 PM](https://github.com/user-attachments/assets/830003dc-7706-45e6-87f8-056923c28d0d)
