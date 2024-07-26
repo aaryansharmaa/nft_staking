@@ -30,7 +30,7 @@ Testing Instructions [Hardhat]
    Example: const mintNftTx = await ERC721Mock.mint(deployer.address, 6); -  Use a token ID greater than 5
 
 2. Run the tests:
-   npx hardhat test
+   npx hardhat test/test.js
 
 Contract Addresses
 ------------------
