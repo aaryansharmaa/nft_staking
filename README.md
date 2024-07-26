@@ -3,7 +3,7 @@ NFT Staking
 
 Project Description
 -------------------
-This project implements an NFT staking with rewards using ERC20 and ERC721 tokens. Users can stake their NFTs to earn ERC20 token rewards.
+This project implements an NFT staking with rewards using ERC20 and ERC721 tokens. Users can stake their NFTs to earn ERC20 token rewards. 
 
 Setup Instructions
 ------------------
@@ -24,7 +24,7 @@ Deployment Instructions
 3. Deploy the contracts:
    npx hardhat run scripts/deploy.js --network [network]
 
-Testing Instructions
+Testing Instructions [Hardhat]
 --------------------
 1. Update the token ID in the testing script to a number greater than 5 to avoid gas errors, as previous IDs may have already been used during testing:
    Example: const mintNftTx = await ERC721Mock.mint(deployer.address, 6); -  Use a token ID greater than 5
