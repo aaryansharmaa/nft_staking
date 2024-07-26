@@ -64,7 +64,7 @@ async function main() {
   await unstakeTx.wait();
   console.log(`Unstaked NFT with tokenId 1 from NFTStaking contract`);
 
-  // Claim rewards
+  // Claim rewards - works if any rewards accumulated
   const claimTx = await NFTStaking.claimRewards();
   await claimTx.wait();
   console.log(`Claimed staking rewards`);
