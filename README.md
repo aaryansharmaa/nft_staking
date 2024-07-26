@@ -3,7 +3,7 @@ NFT Staking
 
 Project Description
 -------------------
-This project implements an NFT staking with rewards using ERC20 and ERC721 tokens. Users can stake their NFTs to earn ERC20 token rewards. 
+This project implements NFT staking with rewards using ERC20 and ERC721 tokens. Users can stake their NFTs to earn ERC20 token rewards. 
 
 Setup Instructions
 ------------------
